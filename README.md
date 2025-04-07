@@ -5,7 +5,7 @@
 - 📫 Can contact me by mail : ianhafiz9999@gmail.com or by instagram : @seorangian
 - 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: tgh gaduh dgn crush...
+- ⚡ Fun fact: im funny 
 
 <!---
 ianniboss/ianniboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
