@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Ian Binsyahrul Azlan
+# 👨‍💻 Ian Bin Syahrul Azlan
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Application+Development+Student;Web+Site+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
