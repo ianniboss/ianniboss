@@ -2,7 +2,7 @@
   
 # 👨‍💻 Ian Binsyahrul Azlan
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Application+Development+Student;Full+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Application+Development+Student;Web+Site+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -17,7 +17,7 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```typescript
-const ianni = {
+const ian = {
     education: "University of Toulouse",
     specialization: "Application Development",
     availableForInternship: true,
@@ -25,7 +25,7 @@ const ianni = {
     duration: "10-12 weeks",
     passions: ["Software Development", 
                "Problem Solving", 
-               "Innovation"]
+               "Web Designer"]
 };
 ```
 
