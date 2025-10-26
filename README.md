@@ -82,6 +82,43 @@ graph LR
 ```
 </details>
 
+<details> 
+  <summary>🖥️ Apache2/SSL Server Administration</summary>
+  # Server Deployment Log
+  sudo apt install apache2 openssl
+  sudo a2enmod ssl
+  sudo systemctl restart apache2
+  # Highlights:
+  # → Configured SSL certificates
+  # → Hardened Linux server environment
+  # → Managed secure web service operations
+</details> 
+
+<details> 
+  <summary>🌐 Web Documentary Creation</summary>
+    <!-- Interactive Web Documentary Highlights -->
+  <section id="webdoc">
+    <h2>2025 Project</h2>
+    <ul>
+      <li>Designed and developed an interactive narrative interface</li>
+      <li>Integrated multimedia storytelling components</li>
+      <li>Collaborative project using agile methodology</li>
+    </ul>
+  </section>
+</details> 
+
+<details> 
+  <summary>🧮 Algorithmic Exploration & Graph Theory</summary>
+  class GraphAlgorithms:
+    def highlights(self):
+        return [
+            "Implemented multiple algorithmic models",
+            "Explored pathfinding and optimization problems",
+            "Applied theoretical principles through Python coding"
+        ]
+</details>
+
+
 ## 📊 GitHub Activity
 
 <div align="center">
