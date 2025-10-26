@@ -82,40 +82,80 @@ graph LR
 ```
 </details>
 
-<details> 
+<details>
   <summary>🖥️ Apache2/SSL Server Administration</summary>
-  # Server Deployment Log
-  sudo apt install apache2 openssl
-  sudo a2enmod ssl
-  sudo systemctl restart apache2
-  # Highlights:
-  # → Configured SSL certificates
-  # → Hardened Linux server environment
-  # → Managed secure web service operations
-</details> 
 
-<details> 
+```bash
+# Server Deployment Log
+sudo apt update && sudo apt install apache2 openssl
+sudo a2enmod ssl
+sudo systemctl restart apache2
+```
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant A as Apache2
+    participant O as OpenSSL
+    U->>A: HTTPS request
+    A->>O: TLS handshake
+    O-->>A: Certificate + key exchange
+    A-->>U: Secure content response
+```
+
+- Highlights:
+  - Configured SSL certificates
+  - Hardened Linux server environment
+  - Managed secure web service operations
+</details>
+
+<details>
   <summary>🌐 Web Documentary Creation</summary>
-    <!-- Interactive Web Documentary Highlights -->
-  <section id="webdoc">
-    <h2>2025 Project</h2>
-    <ul>
-      <li>Designed and developed an interactive narrative interface</li>
-      <li>Integrated multimedia storytelling components</li>
-      <li>Collaborative project using agile methodology</li>
-    </ul>
-  </section>
-</details> 
 
-<details> 
+```yaml
+stack:
+  frontend: HTML5/CSS3, Vanilla JS
+  tooling: Git, Agile workflow
+  media: Audio, Video, Images
+  year: 2025
+```
+
+```mermaid
+flowchart LR
+    Home --> Chapters --> Media
+    Chapters --> Timeline
+    Timeline --> Interactions
+    Interactions --> Credits
+```
+
+- Highlights:
+  - Designed and built an interactive narrative interface
+  - Integrated multimedia storytelling components
+  - Collaborated using agile methodology
+</details>
+
+<details>
   <summary>🧮 Algorithmic Exploration & Graph Theory</summary>
-  class GraphAlgorithms:
+
+```python
+class GraphAlgorithms:
     def highlights(self):
         return [
             "Implemented multiple algorithmic models",
             "Explored pathfinding and optimization problems",
             "Applied theoretical principles through Python coding"
         ]
+```
+
+```mermaid
+graph TD
+    A[Algorithms] -->|Dijkstra| B[Shortest Paths]
+    A -->|DFS/BFS| C[Traversal]
+    A -->|Bellman-Ford| D[Negative Weights]
+    C --> E[Graph Properties]
+    B --> F[Optimization]
+```
+
 </details>
 
 
